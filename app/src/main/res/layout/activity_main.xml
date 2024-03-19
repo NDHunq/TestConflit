@@ -108,11 +108,10 @@
 
             </com.google.android.material.textfield.TextInputEditText>
         </com.google.android.material.textfield.TextInputLayout>
-        <ImageView
-            android:layout_width="0dp"
-            android:layout_marginTop="15dp"
-            android:layout_height="match_parent"
-            android:layout_marginLeft="5dp"
-            android:src="@drawable/calendar" android:layout_weight="1"></ImageView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </TextView>
     </LinearLayout>
 </LinearLayout>
